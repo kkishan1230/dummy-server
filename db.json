@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Quantum Physics",
+    "description": "A beginner-friendly overview of quantum mechanics principles.",
+    "name": "Quantum Physics 101"
+  },
+  {
+    "id": 2,
+    "title": "The Art of French Cooking",
+    "description": "Master the techniques of classic French cuisine.",
+    "name": "French Cooking Masterclass"
+  },
+  {
+    "id": 3,
+    "title": "Building a Mobile App with React Native",
+    "description": "Learn to create cross-platform mobile apps.",
+    "name": "React Native App Development"
+  },
+  {
+    "id": 4,
+    "title": "Understanding Financial Markets",
+    "description": "A comprehensive guide to financial markets and investing.",
+    "name": "Financial Markets Explained"
+  },
+  {
+    "id": 5,
+    "title": "Creative Writing Workshop",
+    "description": "Unlock your creativity and improve your writing skills.",
+    "name": "Creative Writing for Beginners"
+  },
+  {
+    "id": 6,
+    "title": "Data Science with Python",
+    "description": "Learn data analysis and machine learning with Python.",
+    "name": "Python for Data Science"
+  },
+  {
+    "id": 7,
+    "title": "The History of Ancient Rome",
+    "description": "Explore the rise and fall of the Roman Empire.",
+    "name": "Ancient Rome: A History"
+  },
+    {
+    "id": 8,
+    "title": "Web Development with JavaScript",
+    "description": "Learn front-end web development with JavaScript.",
+    "name": "JavaScript Web Development"
+  },
+  {
+    "id": 9,
+    "title": "Photography for Beginners",
+    "description": "Capture stunning photos with your camera.",
+    "name": "Intro to Photography"
+  },
+  {
+    "id": 10,
+    "title": "Meditation and Mindfulness",
+    "description": "Practice mindfulness and reduce stress.",
+    "name": "Mindfulness Meditation"
+  }
+]
