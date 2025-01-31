@@ -28,35 +28,5 @@
     "title": "Creative Writing Workshop",
     "description": "Unlock your creativity and improve your writing skills.",
     "name": "Creative Writing for Beginners"
-  },
-  {
-    "id": 6,
-    "title": "Data Science with Python",
-    "description": "Learn data analysis and machine learning with Python.",
-    "name": "Python for Data Science"
-  },
-  {
-    "id": 7,
-    "title": "The History of Ancient Rome",
-    "description": "Explore the rise and fall of the Roman Empire.",
-    "name": "Ancient Rome: A History"
-  },
-    {
-    "id": 8,
-    "title": "Web Development with JavaScript",
-    "description": "Learn front-end web development with JavaScript.",
-    "name": "JavaScript Web Development"
-  },
-  {
-    "id": 9,
-    "title": "Photography for Beginners",
-    "description": "Capture stunning photos with your camera.",
-    "name": "Intro to Photography"
-  },
-  {
-    "id": 10,
-    "title": "Meditation and Mindfulness",
-    "description": "Practice mindfulness and reduce stress.",
-    "name": "Mindfulness Meditation"
   }
 ]
